@@ -17,7 +17,7 @@ This is a fast, practical script to present Cloud Mirror with real data and fail
 - 55 to 85 min: dry-run demo script once
 - 85 to 120 min: final run and screenshots/slides
 
-## 1. Start local app (primary)
+## 1. Start local app
 
 From project root:
 
